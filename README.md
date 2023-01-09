@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ People normally ask where I got my name, well, fun fact, it was an xbox randomly generated name!
-- 🔭 I’m currently working on (Atom, a Discord Bot!)[https://www.atomthebot.xyz/index]
+- 🔭 I’m currently working on [Atom, a Discord Bot!](https://www.atomthebot.xyz/index)
 - 😄 Pronouns: He/Him
 
 <!--
