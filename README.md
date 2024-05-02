@@ -7,11 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/lukebot19" target="blank"><img src="https://img.shields.io/twitter/follow/lukebot19?logo=twitter&style=for-the-badge" alt="lukebot19" /></a> </p>
 
-- 🔭 I’m currently working on [Atom, a Discord Bot](https://www.atomthebot.xyz/index)
-
-- ✨ A recent project [Spotify Display with Lyrics](https://github.com/Lukebot19/spotify-disply-with-lyrics-flutter/releases)
-
-- ⚡ Fun fact **my username is an Xbox randomly generated name!**
+See what Ive been getting upto!
+https://lukebot19.github.io/portfolio-website/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
